@@ -28,7 +28,6 @@ node_modules/
 dist/
 
 # Static directories (public can be included if necessary, otherwise it's typically excluded)
-public/
 
 # Ignore any custom build or temp files
 build/
